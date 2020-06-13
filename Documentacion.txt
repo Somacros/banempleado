@@ -1,0 +1,5 @@
+La gran mayoría de los componentes visuales que conforman el frontend
+fueron tomados desde la librería Bootstrap en su versión 4.
+
+Para más información ir a https://getbootstrap.com/.
+
